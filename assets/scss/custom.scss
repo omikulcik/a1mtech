@@ -922,3 +922,12 @@ footer {
     height: 300px;
   }
 }
+
+@media (max-width: 675px){
+  .flags{
+    position: relative;
+    margin-bottom: 2rem;
+    top: 0;
+    right: 0;
+  }
+}
